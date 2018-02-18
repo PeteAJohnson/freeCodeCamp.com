@@ -1,2 +1,2 @@
 # freeCodeCamp.com
-all of my freeCodeCamp.com problem/algorithm solutions and projects
+all of my freeCodeCamp.com challenge/algorithm solutions
